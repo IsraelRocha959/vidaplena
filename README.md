@@ -21,6 +21,7 @@ HTML5 / CSS3 – Estruturação e estilização da interface.
 Objetivo do projeto
 Este projeto foi desenvolvido como uma aplicação prática de desenvolvimento web, aplicando conceitos de programação orientada a objetos, arquitetura MVC (MTV no Django), gerenciamento de banco de dados, operações CRUD e desenvolvimento de sistemas web.
 O objetivo é construir uma solução funcional que possa servir como base para sistemas de gestão de clínicas e estabelecimentos de saúde.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 uptest: python manage.py test
