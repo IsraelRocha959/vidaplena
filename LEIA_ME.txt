@@ -1,0 +1,15 @@
+// nota* : Certifique-se de rodar o teste (python manage.py test) e rodar o server (python manage.py runserver)
+
+//--- CHAVE ACESSO DJANGO ----// 
+ $env:DJANGO_SECRET_KEY = "3KVEGtGhJJjYDmuGkxuaGnX3rfvJQQHMw0eD-iGhQMlxuJt4C5F5PwKLx80Cg0v-3AM"
+
+
+
+ 
+//---- DEMO SENHA DE TODOS: JTjQj2LSW1NEGqzm ----//
+  - recepcao.centro  [Recepção (Centro)]
+  - dra.souza  [Profissional]
+  - paciente.demo  [Paciente]
+
+//--- ADMINISTRADOR ----//
+Administrador: crie com  python manage.py createsuperuser 
